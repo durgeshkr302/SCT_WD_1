@@ -1,4 +1,4 @@
-#Durgesh's Personal Portfolio
+#`Durgesh's Personal Portfolio
 
 A modern, responsive and animated personal portfolio website built with **HTML**, **Tailwind CSS**, and **JavaScript**.  
 This is a clean single-page design showcasing **about**, **projects**, and **contact info** — with smooth animations and scroll effects.
